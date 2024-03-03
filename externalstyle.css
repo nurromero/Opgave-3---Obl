@@ -16,6 +16,31 @@ strong p{
 }
 
 .contact-info{
-  margin-top: 55px;
+  display: inline-block;
+  margin-top: -20px;
+  border: 5px solid yellow;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 
+
+.container{
+  margin-top: 90px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.col-sm{
+  border: 5px solid yellow;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+
+
+}
+
+.bottom-links{
+  padding-top: 40px;
+ 
+}
